@@ -1,4 +1,4 @@
-const API_URL = "http://localhost:5000/api/expenses"; 
+const API_URL = "https://fet-backend-si39.onrender.com/api/expenses"; 
 // ⚠️ change to your deployed backend URL later
 
 // Get all expenses
